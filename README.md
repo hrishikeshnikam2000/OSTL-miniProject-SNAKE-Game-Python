@@ -1,29 +1,28 @@
 # OSTLminiProject-python
-This was my official submission for the the OPEN SOURCE TECH LAB (ostl)
+This was my submission for the the OPEN SOURCE TECH LAB (ostl) Sem-3 (MU)
 
 # Snake-Game in python!
-This game was my oficial mini-project for OSTL (PYTHON)
+This game was my mini-project for OSTL! (PYTHON)
 The classic snake game. Made with pygame.
 
 # Requirements
 - Python 3.x
 - pygame
-
- 
 If you guys don't have python3 installed then kindly download it online.
-this game doesn't run on VScode even if you install the plug-ins. Atleast when i made this project it wasn't. don't know about now
+This game doesn't run on VScode even if you install the plug-ins.
+Don't forget to import pygame library once python file is dowloaded.
+
+# hotelmanagement
+Another project which was created for mini project was a hotel management project
+It is very basic and you could add more features to it, it works just fine without any additions and is very simple to understand.
+
 
 # personal note :)
 Thankyou for having a look at this game
-
-
-You can also run Snake-Game in Gitpod, this can be run online run this online
-
-
-i have set this game according to my convienience!
-
-if you guys don't like the speed or design you can changes it as you want it.
-
+You can also run Snake-Game in Gitpod,which can be run online.
+I have set this game according to my convienience!
+If you guys don't like the speed or design you can changes it as you want it.
 Constructive criticism is welcomed!
+
 
 happy coding!
