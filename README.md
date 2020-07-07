@@ -1,6 +1,12 @@
 # OSTLminiProject-python
 This was my submission for the the OPEN SOURCE TECH LAB (ostl) Sem-3 (MU)
 
+There are 3 projects in this repository.
+
+          1)Snake Game in python using pygame and tkinter.(Title :- mainfile.py)
+          2)Hotel Management Project in python
+          3)Turtle animation Game in Python.
+
 # Snake-Game in python!
 This game was my mini-project for OSTL! (PYTHON)
 The classic snake game. Made with pygame.
